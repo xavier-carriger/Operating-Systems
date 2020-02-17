@@ -1,3 +1,4 @@
 One of the functions of an operating system is the ability to process data and show it on screen, allowing anybody to input data and it will reflect more than just code into a visually appealing webpage or display.
 Not only that, it allows systems to properly run applications and run them effectively without needing the know how on what kind of code you should be using for a computer.
 These programs also allow many of the different parts to communicate effectively, allowing the monitors to display information correctly.
+Another function that an operating system gives is the ability to run applications. Many of these applications can run with the correct codices. Thus, allowing anybody who makes a program on the operating system to be able to run their program on any computer running this operating system. This also can create files that a system with the proper codices from a specific operating system can read and display properly.
